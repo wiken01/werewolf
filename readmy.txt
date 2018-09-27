@@ -1,3 +1,7 @@
 this is a test
 ksks
+<<<<<<< Updated upstream
 change to test
+=======
+change twice
+>>>>>>> Stashed changes
