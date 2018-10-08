@@ -67,6 +67,8 @@ class Murder(object):
 
 
 
+
+
                     elif flag =="G":
                         self.send_2_player()
                     elif data =="":                        

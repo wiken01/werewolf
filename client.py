@@ -89,6 +89,7 @@ class Murder_Client(object):
                 p.join()
                 s.close()        
                 sys.exit()
+           
                  
 
     def to_send(self,s):
